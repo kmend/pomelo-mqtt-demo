@@ -1,6 +1,6 @@
 ## pomelo-mqtt-demo
 
-A simple demo using pomelo and mqttconnector
+A simple demo using [pomelo](https://github.com/NetEase/pomelo) and mqttconnector
 
 ## Test
 
