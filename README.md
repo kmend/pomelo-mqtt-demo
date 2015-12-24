@@ -20,4 +20,4 @@ on another, run following command to publish a message
 
 ```
 mqtt pub -t "AnyTopic" -h "localhost" -p 3010 -m "Hello World"
-``
+```
